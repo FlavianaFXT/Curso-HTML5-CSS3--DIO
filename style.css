@@ -13,11 +13,18 @@ body {
 
 .photo{
     border:1px solid blueviolet;
-    border-radius:50%;
+    border-radius:300px;
+    max-width: 200px;
+    align-items: center;
 }
 
 #title,.subtitle,.post_title {
-    color:black
+    color:black;
+}
+
+title{
+    text-transform: capitalize;
+    text-align: center;
 }
 
 .post_title {
@@ -41,20 +48,30 @@ body {
     margin:0;
     margin-bottom:15px;
     text-transform: capitalize;
-    text-align: center;
+    text-align: left;
+}
+
+.dados{
+    text-align: left;
 }
 
 .post_image{
     margin-bottom: 15px;
-    width: 100%;
+    width: 40%;
 }
 
 a{
-    text-decoration: line-through;
-    color: chartreuse;
+    color: black
+}
+
+.contact-title{
+    text-decoration: underline;
+    color: black;
+    text-align: center;
 }
 
 .contacts-list li a{
     color:white;
-    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
 }
