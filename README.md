@@ -3,5 +3,5 @@ Meu primeiro curso na área de programação e meu primeiro projeto Front End fi
 
 *Check-List:*
 
--[] Estudar mais os temas abordados;
--[] Revisar o projeto visando a melhoria dele e do codigo;
+- [ ] Estudar mais os temas abordados;
+- [ ] Revisar o projeto visando a melhoria dele e do codigo;
